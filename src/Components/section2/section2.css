@@ -1,0 +1,25 @@
+
+    /* Section: Product Portfolio */
+    .three {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 30px 10px;
+      margin-top: 25px;
+    }
+
+    .three h2 {
+      margin-bottom: 35px;
+    }
+
+    .threeimg {
+      display: flex;
+      justify-content: space-evenly;
+    }
+
+    .thimg {
+        width: 32vw;
+        height: 70vh;
+        padding: 3px 3px; 
+    }
+   

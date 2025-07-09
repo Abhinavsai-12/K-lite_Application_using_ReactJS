@@ -1,0 +1,49 @@
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    .aboutus{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 30px;
+    }
+    .aboutus h2{
+        color: rgba(67, 66, 66, 0.627);
+        padding-right: 1080px;
+        padding-bottom: 5px;
+        border-bottom: 2px solid rgba(81, 79, 79, 0.353);
+    }
+    .ifr{
+        width: 99vw;
+        margin-top: 20px;
+        padding: 40px 250px;
+        background-color: rgba(96, 96, 94, 0.363);
+
+    }
+
+
+
+    .para{
+        margin-top: 80px;
+        margin-bottom: 80px;
+
+        width: 70%;
+        display: flex;
+        flex-direction: column;
+    }
+    .para1{
+        padding: 5px;
+        line-gap-override: 5px;
+
+    }
+    .para1 i{
+        color: orange;
+    }
